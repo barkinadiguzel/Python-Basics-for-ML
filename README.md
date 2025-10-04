@@ -1,8 +1,8 @@
-# Python Fundamentals for ML
-Beginner-friendly tutorial covering essential Python concepts for machine learning: variables, data types, lists, dictionaries, functions, loops, conditionals, classes, object-oriented programming, imports, and file operations.
+# 🐍 Python Fundamentals for ML  
+Beginner-friendly tutorial covering essential Python concepts for machine learning: ✨  
+📦 variables, 🔢 data types, 📋 lists, 📚 dictionaries, 🔧 functions, 🔄 loops, 🔀 conditionals, 🏗️ classes, 🧩 object-oriented programming, 📥 imports, and 📂 file operations.  
 
-
-## Quick Start
+## ⚡ Quick Start  
 
 ```bash
 pip install torch transformers Pillow requests
